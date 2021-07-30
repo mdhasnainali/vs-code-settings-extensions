@@ -65,7 +65,6 @@
         "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     },
     "omnisharp.path": "latest",
-    "files.autoSave": "afterDelay",
     "omnisharp.projectLoadTimeout": 120,
     "C_Cpp.autocompleteAddParentheses": true,
     "C_Cpp.vcFormat.indent.braces": true,
@@ -80,9 +79,27 @@
     "editor.fontLigatures": true,
     "editor.wordWrap": "on",
     "editor.fontFamily": "Fira Code,Apercu Mono,Hack",
-    "editor.fontSize": 20,
 
     // cursor
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorBlinking": "expand",
+    "editor.fontSize": 16,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoClosingBrackets": "always"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": true,
+    "[python]": {
+
+        "editor.autoClosingBrackets": "always"
+    },
+    "javascript.suggest.completeFunctionCalls": true, // For JavaScript Auto Parentheses
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "javascript": false
+    },
 }
