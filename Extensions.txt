@@ -12,3 +12,25 @@ Extensions
 10. Andromeda - Eliver Lara
 11. Emoji Snippets - Devzstudio
 12. Community Material Theme - Mattia Astorino
+
+
+July 30, 2021
+-----------------
+austin.code-gnu-global
+bradlc.vscode-tailwindcss
+danielpinto8zz6.c-cpp-compile-run
+DivyanshuAgrawal.competitive-programming-helper
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+GitHub.copilot
+jeff-hykin.better-cpp-syntax
+ms-vscode.cpptools
+ms-vscode.cpptools-themes
+PKief.material-icon-theme
+ritwickdey.LiveServer
+solnurkarim.html-to-css-autocompletion
+SumitSaha.learn-with-sumit-theme
+VisualStudioExptTeam.vscodeintellicode
+wesbos.theme-cobalt2
