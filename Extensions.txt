@@ -18,7 +18,7 @@ Extensions
 
 
 
-Important Extension:
+Important Extension(Web Dev):
 auto import
 code spell checker
 eslint
