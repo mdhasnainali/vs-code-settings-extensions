@@ -1,37 +1,46 @@
-Extensions
+### Extensions ###
 
+
+Competative Programming (Personal)
+=================================
+
+
+
+
+
+
+Web Development (Personal)
+==========================
 1. Live Server - ritwik dey
 2. ES Lint - Dirk Baeumer
 3. Prettier - Code formatter - Esben Petersen
-4. vscode-icons - VSCode Icons Team
-5. Path Autocomplete - Mihai Vilcu
-6. Turbo Console Log - ChakrounAnas
-7. ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-8. Dracula Official - Dracula Theme
-9. Auto Rename Tag - Jun Han
-10. Andromeda - Eliver Lara
-11. Emoji Snippets - Devzstudio
-12. Community Material Theme - Mattia Astorino
+4. Turbo Console Log - ChakrounAnas
+5. Auto Rename Tag - Jun Han
+6. Andromeda - Eliver Lara
+7. Auto Import - Steoates
+8. Code Spell Checker - Street Side Software
+9. JavaScript (ES6) Code Snippets - Charalampos Karypidis
+10. npm - Egamma
+11. npm Intellisense - Christian Kohler
+12. React Extension Pack - Rajbir Jawanda
+13. Reactjs code snippets - Charalampos Karypidis
+14. Search node_modules - Jason Nutter
+15. Tabnine - TabNine
+16. Bracket Pair Colorizer - CoenraadS
 
 
 
+Web Development (Others)
+========================
+1. vscode-icons - VSCode Icons Team
+2. Path Autocomplete - Mihai Vilcu
+3. ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
+4. Dracula Official - Dracula Theme
+5. Emoji Snippets - Devzstudio
+6. Community Material Theme - Mattia Astorino
 
 
 
-Important Extension(Web Dev):
-auto import
-code spell checker
-eslint
-JavaScript (ES6) code snippets
-Prettier - Code formatter
-npm
-npm Intellisense
-React Extension Pack
-Reactjs code snippets
-Search node_modules
-Tabnine
-Auto Rename Tag
-Bracket Pair Colorizer
 
 
 
