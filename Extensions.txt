@@ -14,6 +14,28 @@ Extensions
 12. Community Material Theme - Mattia Astorino
 
 
+
+
+
+
+Important Extension:
+auto import
+code spell checker
+eslint
+JavaScript (ES6) code snippets
+Prettier - Code formatter
+npm
+npm Intellisense
+React Extension Pack
+Reactjs code snippets
+Search node_modules
+Tabnine
+Auto Rename Tag
+Bracket Pair Colorizer
+
+
+
+
 July 30, 2021
 -----------------
 austin.code-gnu-global
