@@ -27,6 +27,7 @@ Web Development (Personal)
 14. Search node_modules - Jason Nutter
 15. Tabnine - TabNine
 16. Bracket Pair Colorizer - CoenraadS
+17. Tailwind CSS IntelliSense - Brad Cornes
 
 
 
